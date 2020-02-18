@@ -1,0 +1,3 @@
+One function of an operating system is User Interface. 
+OS is in charge of UI allowing ways for the user to interact with the device.
+They interact with the UI giving and getting data.
