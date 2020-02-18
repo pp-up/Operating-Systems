@@ -4,3 +4,6 @@ They interact with the UI giving and getting data.
 Another function of an operating system is memory management.
 The operating system's function is to also store and allocate memory.
 This happens when someone accesses a file which then goes from the storage to the RAM.
+A third function of an OS would also be multitasking.
+The OS can run a certain application or task very quickly and switch to the next task.
+It runs each task one at a time but runs the program very fast, taking little time which is processed by the CPU.
