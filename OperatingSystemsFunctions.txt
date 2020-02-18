@@ -1,3 +1,6 @@
 One function of an operating system is User Interface. 
 OS is in charge of UI allowing ways for the user to interact with the device.
 They interact with the UI giving and getting data.
+Another function of an operating system is memory management.
+The operating system's function is to also store and allocate memory.
+This happens when someone accesses a file which then goes from the storage to the RAM.
